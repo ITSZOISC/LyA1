@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 13 19:26:32 2023
-
-@author: Lizeth
-"""
-
 import pandas as pd
 
 def analizador_lexico(matriz_transicion, palabra):
